@@ -1,0 +1,1 @@
+p = median(w1000list(:,3))
